@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/mominqimiang/device_UNISOC_uis7870sc_2h10'
+        default: 'https://github.com/liucz000/device_UNISOC_uis7870sc_2h10'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
